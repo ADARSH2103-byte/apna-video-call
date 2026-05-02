@@ -1,17 +1,8 @@
 # 📹 Apna Video Call (MERN + WebRTC)
 
 A real-time video calling web application built using **MERN Stack + WebRTC + Socket.IO**.  
-It enables peer-to-peer video communication with room-based joining system.
+It enables peer-to-peer video communication with room-based joining system
 
----
-
-## 🚀 Live Demo
-👉 https://your-live-link.com  
-
-## 💻 GitHub Repo
-👉 https://github.com/your-username/apna-video-call  
-
----
 
 ## ⚙️ Tech Stack
 
